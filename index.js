@@ -37,7 +37,7 @@ function checkIndexCurso(req, res, next) {
   return next();
 }
 
-server.get('/cursos', checkIndexCurso, (req, res) => {
+server.get('/cursos', (req, res) => {
   return res.json(cursos);
 });
 

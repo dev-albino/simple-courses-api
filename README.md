@@ -3,6 +3,9 @@ TECNOLOGIAS DESENVOLVIDAS
 - Node.js;
 - Yarn.
 
+FUNCIONAMENTO
+- Dentro da pasta raiz do projeto, abrir o terminal e rodar os comandos "yarn install" para instalar as dependências, e após o término "yarn dev" para iniciar o projeto.
+
 PLATAFORMA
 - Udemy.
 
