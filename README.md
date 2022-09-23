@@ -1,6 +1,7 @@
 TECNOLOGIAS DESENVOLVIDAS
 - JavaScript;
 - Node.js;
+- Express;
 - Yarn.
 
 FUNCIONAMENTO
